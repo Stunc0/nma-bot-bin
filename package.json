@@ -1,0 +1,19 @@
+{
+  "name": "nma-bot-bin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stunc0/nma-bot-bin.git"
+  },
+  "author": "nma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stunc0/nma-bot-bin/issues"
+  },
+  "homepage": "https://github.com/Stunc0/nma-bot-bin#readme"
+}
